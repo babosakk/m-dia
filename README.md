@@ -1,1 +1,1 @@
-verificador de média 
+cauculo de média e constatação de situação escolar 
